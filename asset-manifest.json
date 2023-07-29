@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/To-do-List/static/css/main.ef61e510.css",
-    "main.js": "/To-do-List/static/js/main.21c73cf1.js",
-    "static/js/787.34d05ddd.chunk.js": "/To-do-List/static/js/787.34d05ddd.chunk.js",
-    "index.html": "/To-do-List/index.html",
-    "main.ef61e510.css.map": "/To-do-List/static/css/main.ef61e510.css.map",
-    "main.21c73cf1.js.map": "/To-do-List/static/js/main.21c73cf1.js.map",
-    "787.34d05ddd.chunk.js.map": "/To-do-List/static/js/787.34d05ddd.chunk.js.map"
+    "main.css": "/Lista-de-Tarefas/static/css/main.ef61e510.css",
+    "main.js": "/Lista-de-Tarefas/static/js/main.8197a422.js",
+    "static/js/787.34d05ddd.chunk.js": "/Lista-de-Tarefas/static/js/787.34d05ddd.chunk.js",
+    "index.html": "/Lista-de-Tarefas/index.html",
+    "main.ef61e510.css.map": "/Lista-de-Tarefas/static/css/main.ef61e510.css.map",
+    "main.8197a422.js.map": "/Lista-de-Tarefas/static/js/main.8197a422.js.map",
+    "787.34d05ddd.chunk.js.map": "/Lista-de-Tarefas/static/js/787.34d05ddd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef61e510.css",
-    "static/js/main.21c73cf1.js"
+    "static/js/main.8197a422.js"
   ]
 }
